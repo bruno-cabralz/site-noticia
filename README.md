@@ -1,2 +1,2 @@
-# site-noticia
-site sobre noticias feito no curso da udemy
+# site-noticia utilizando html e css
+site sobre noticias feito no curso da udemy 
