@@ -1,2 +1,2 @@
 # site-noticia
-site sobre noticias feino no curso da udemy
+site sobre noticias feito no curso da udemy
